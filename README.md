@@ -49,7 +49,7 @@ A interface do app foi criada usando ConstraintLayout no modelo Design para ser 
 
 ## Telas do Aplicativo 
 
-Tela Principal
+> Tela Principal
 
 ![image](https://github.com/user-attachments/assets/67e111a7-7f25-4737-9ea5-9326ecf70377)
 
